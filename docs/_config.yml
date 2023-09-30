@@ -23,10 +23,10 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Marian Marchal'
+description: 'XXX'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "" 
 
 # Pagination
 paginate: 5
@@ -38,8 +38,14 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+- title: Publications
+  url: /publications/
+- title: Research projects
+  url: /projects/
+- title: Activities 
+  url: /activities/
+# - title: Blog
+  # url: /blog/
 
 # Footer nav
 navigation_footer:
