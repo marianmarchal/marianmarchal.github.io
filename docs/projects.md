@@ -13,6 +13,16 @@ However, there are several explanations for why this might be the case.
 In this project, we develop and test two cognitive models to examine whether readers make predictions at a discourse-structural level or only at a semantic level.
 The findings of this study will inform not only theories on the nature of predictions in language, but also allows for more specific guidelines for when a connective will help the reader. 
 
+**Cross-linguistic differences in connective processing** _with Freya Hewett, Sara Shahmohammadi, Merel Scholman, Vera Demberg and Manfred Stede_
+
+Connectives help readers to process a sentence, but it is unclear whether this effect is consistent across languages.
+A recent study by Blumenthal-Dramé (2021) shows that connectives facilitate reading more in German than in English.
+This effect is argued to be due to the typological nature of the two languages.
+Synthetic languages, like German, encode more information linguistically (e.g. in different word forms).
+Speakers of those languages might therefore be more strongly affected by a linguistic cue for a discourse relation than speakers of an analytic language (e.g. English).
+For speakers of analytic languages, on the other hand, linguistic information is usually more ambiguous and they might therefore rely more on contextual cues and world-knowledge during language processing.
+In this project, we aim to replicate and extend these findings.
+
 **Individual differences in discourse prediction** _with Merel Scholman and Vera Demberg_
 
 When reading a sentence, one can often predict how it will end. But how long can a reader maintain such predictions? 
