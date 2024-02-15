@@ -1,6 +1,6 @@
 ---
 title: 
-feature_image: "/uploads/background_cut2.jpg"
+feature_image: "/uploads/background_pic.jpg"
 feature_text: |
   ## Output
 ---
