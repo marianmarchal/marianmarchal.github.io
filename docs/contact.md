@@ -6,7 +6,7 @@ feature_text: |
 ---
 
 **Email**\
-[lastname]@coli.uni-saarland.de
+[lastname] [at] coli [dot] uni-saarland [dot] de
 
 **Mailing address**\
 Saarland University\

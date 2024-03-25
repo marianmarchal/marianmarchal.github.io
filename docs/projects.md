@@ -13,7 +13,7 @@ However, there are several explanations for why this might be the case.
 In this project, we develop and test two cognitive models to examine whether readers make predictions at a discourse-structural level or only at a semantic level.
 The findings of this study will inform not only theories on the nature of predictions in language, but also allows for more specific guidelines for when a connective will help the reader. 
 
-**Cross-linguistic differences in connective processing** _with Freya Hewett, Sara Shahmohammadi, Merel Scholman, Vera Demberg and Manfred Stede_
+**Cross-linguistic differences in connective processing** _with Freya Hewett,  Merel Scholman, Sara Shahmohammadi, Vera Demberg and Manfred Stede_
 
 Connectives help readers to process a sentence, but it is unclear whether this effect is consistent across languages.
 A recent study by Blumenthal-Dramé (2021) shows that connectives facilitate reading more in German than in English.
@@ -34,4 +34,4 @@ Nigerian Pidgin is a contact language spoken by over 100 million speakers. In pr
 
 **Comprehending connectives** _with Merel Scholman and Vera Demberg_
 
-Connectives play an important role in understanding a text, but this requires that readers know the meaning of the connective. In this project, we examine how well readers actually understand connectives. We investigate what factors influence the comprehension of connectives, looking both at connective-internal factors (frequency and lexical transparency) as well as reader-internal factors (language experience and cognitive skills).
+Connectives play an important role in understanding a text, but this requires that readers know the meaning of the connective. In this project, we examine how well readers actually understand connectives. We investigate what factors influence the comprehension of connectives, looking both at connective-internal factors (frequency and lexical transparency) as well as reader-internal factors (language experience and cognitive skills). **Update: [Paper](https://doi.org/10.1080/0163853X.2024.2325262) published in Discourse Processes.**

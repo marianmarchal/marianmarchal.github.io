@@ -1,11 +1,13 @@
 ---
-title: 
+title:
 feature_image: "/uploads/background_pic.jpg"
 feature_text: |
   ## Output
 ---
 
 ## Publications (peer-reviewed)
+
+Scholman, M.C.J., **Marchal, M.**, & Demberg, V. (2024). Connective comprehension in adults: The influence of lexical transparency, frequency, and individual differences. _Discourse Processes_. doi: 10.1080/0163853X.2024.2325262. [[paper]](https://doi.org/10.1080/0163853X.2024.2325262) [[data and code]](https://osf.io/85a3e/)
 
 **Marchal, M.**, Scholman, M.C.J., & Demberg, V. (2023). How statistical correlations influence discourse-
 level processing: Clause type as a cue for discourse relations. _Journal of Experimental Psychology: Learning, Memory & Cognition_. doi: 10.1037/xlm0001270 [[paper]](https://doi.org/10.1037/xlm0001270) [[data and code]](https://osf.io/heqsu/)
@@ -21,6 +23,13 @@ low-resource language: Developing a connective lexicon for Nigerian Pidgin. _Pro
 Workshop on Computational Approaches to Discourse (CODI)_, 84-94. [[paper]](https://aclanthology.org/2021.codi-main.8/) [[data and code]](https://osf.io/xns9z/?view_only=710a1eca318f46b9b10584c3b980beec)
 
 ## Presentations
+
+**Marchal, M.** (2024). Non-lexical signals of discourse coherence: The role of clause structure. _Guest lecture at RMA course ’Discourse, Cognition and Communication’, Utrecht University, the Netherlands, 14 February._
+
+**Marchal, M.** (2024). Individual differences in connective comprehension: The effect of linguistic
+experience and general reasoning skills. _Guest lecture at course ’Individual Differences in Language Processing’, Saarland University, Germany, 30 January._
+
+**Marchal, M.** (2023). Beyond connectives: (Extra-)linguistic cues for inferring discourse relations. _Invited talk at Meaning and Grammar Research Group, University of Edinburgh, Scotland, 7 November._
 
 **Marchal, M.**, Scholman, M.C.J., Demberg, V. (2023). The effect of domain knowledge on discourse
 relation inferences: Relation marking and interpretation strategies. _Poster at SigDial, Prague, Czech
@@ -39,19 +48,15 @@ Cologne, Germany, 8-10 March._
 lecture at RMA course 'Discourse, Cognition and Communication', Utrecht University, the Netherlands, 22
 February._
 
-**Marchal, M.**, Scholman, M.C.J., & Demberg, V. (2022). How statistical correlations influence dis-
-course-level processing: Clause type as a cue for discourse relations. _Talk at DisCorX, Bern, Switzerland,
+**Marchal, M.**, Scholman, M.C.J., & Demberg, V. (2022). How statistical correlations influence discourse-level processing: Clause type as a cue for discourse relations. _Talk at DisCorX, Bern, Switzerland,
 16-17 November._
 
-**Marchal, M.** (2022). Signals for text coherence: From sentence structure to text structure. _Guest
-lecture at BA course 'Discourse analysis and discourse processing', Utrecht University, the Netherlands, 23
+**Marchal, M.** (2022). Signals for text coherence: From sentence structure to text structure. _Guest lecture at BA course 'Discourse analysis and discourse processing', Utrecht University, the Netherlands, 23
 December._
 
-**Marchal, M.**, Scholman, M.C.J., Yung. F., & Demberg, V. (2022). Establishing annotation quality
-in multi-label annotations. _Poster at COLING, Gyeongju, Korea, 12-17 October._
+**Marchal, M.**, Scholman, M.C.J., Yung. F., & Demberg, V. (2022). Establishing annotation quality in multi-label annotations. _Poster at COLING, Gyeongju, Korea, 12-17 October._
 
-**Marchal, M.**, Scholman, M.C.J., & Demberg, V. (2022). Clause structure as an alternative cue for
-discourse relations. _Talk at the 32nd Annual Meeting of the Society for Text and Discourse, online. 19-21
+**Marchal, M.**, Scholman, M.C.J., & Demberg, V. (2022). Clause structure as an alternative cue for discourse relations. _Talk at the 32nd Annual Meeting of the Society for Text and Discourse, online. 19-21
 July._
 
 Scholman, M.C.J., **Marchal, M.**, & Demberg, V. (2022). The influence of individual differences and
@@ -71,5 +76,4 @@ Cana, Dominican Republic (online), 10-11 November._
 tions. _Talk at SLE workshop ‘Continuative and contrastive discourse relations across discourse domains‘, 30
 August – 3 September._
 
-**Marchal, M.**, Scholman, M.C.J.& Demberg, V. (2021). The effect of domain knowledge on con-
-structing discourse relation inferences. _Poster at SFB 1102 PhD day, 25 June._
+**Marchal, M.**, Scholman, M.C.J.& Demberg, V. (2021). The effect of domain knowledge on constructing discourse relation inferences. _Poster at SFB 1102 PhD day, 25 June._

@@ -9,7 +9,7 @@ feature_text: |
 *Since October 2023*
 
 DiscoMatiX is an interest group for researchers working on discourse and pragmatics using experimental approaches. Our goals are to assess the compatability of different frameworks in these fields and to develop best practices to empirically test theoretical predictions. 
-The group will be kicked off with an online mini-series.
+The group organizes online talks and panel discussions.
 For more info, visit [discomatix.github.io](https://discomatix.github.io).
 
 **Workshop 'Research Process Management'**\
